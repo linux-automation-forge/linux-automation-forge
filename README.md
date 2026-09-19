@@ -32,7 +32,7 @@ Also exploring: Python (Flask) · CI/CD · Docker
 📚 Deepening: Linux internals · automation patterns
 🎯 Open to internships — Linux · DevOps · automation · backend
 📫 Contact : manumanepalli999@gmail.com
-LinkedInEmail
+LinkedInEmail : dfwparceldata@gmail.com
 
 If you read this far: yes, all tools are real. Pick one and try to break it.
 
